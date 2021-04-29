@@ -44,7 +44,7 @@ resource "random_id" "this" {
 }
 
 module "vaultwarden" {
-  source = "github.com/kazhala/terraform-aws-vaultwarden?ref=v0.1.2"
+  source = "github.com/kazhala/terraform-aws-vaultwarden?ref=v0.1.3"
 
   domain_name             = var.domain_name
   domain_name_prefix      = var.domain_name_prefix
