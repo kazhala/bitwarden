@@ -25,7 +25,7 @@ Personal deployment of self-hosted [bitwarden](https://github.com/dani-garcia/bi
 |------|--------|---------|
 | <a name="module_acm"></a> [acm](#module\_acm) | terraform-aws-modules/acm/aws | ~> v3.0 |
 | <a name="module_ses_smtp"></a> [ses\_smtp](#module\_ses\_smtp) | github.com/kazhala/terraform-aws-ses-smtp-identity?ref=v0.1.0 |  |
-| <a name="module_vaultwarden"></a> [vaultwarden](#module\_vaultwarden) | github.com/kazhala/terraform-aws-vaultwarden |  |
+| <a name="module_vaultwarden"></a> [vaultwarden](#module\_vaultwarden) | github.com/kazhala/terraform-aws-vaultwarden?ref=v0.1.2 |  |
 
 ## Resources
 
